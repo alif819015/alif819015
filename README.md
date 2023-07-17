@@ -1,4 +1,4 @@
-![Web Developer](https://i.ibb.co/Fz25NDG/Web-Developer.png)
+
 
 ### Hi there 👋, I'm Mahmud Hasan
 #### Web Developer
