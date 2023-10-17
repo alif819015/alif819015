@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Mahmud Hasan</h1>
-<h3 align="center">I am a Mern Stack developer from Bangladesh</h3>
+<h3 align="center">I am a Full Stack developer from Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alif819015&label=Profile%20views&color=0e75b6&style=flat" alt="alif819015" /> </p>
 
