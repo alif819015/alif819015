@@ -1,4 +1,4 @@
-![Web Developer](https://i.ibb.co/09CZ2vy/Screenshot-2023-08-02-192348.png)
+![Web Developer](https://i.ibb.co/QNVKxk1/git-Banner.png)
 
 
 <h1 align="center">Hi 👋, I'm Mahmud Hasan</h1>
